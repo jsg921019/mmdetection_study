@@ -1,0 +1,1 @@
+_base_ = ['./sample_base1.py', './sample_base2.py']
